@@ -56,10 +56,12 @@
 
 ## 👥 Integrantes da Equipe
 
-* **Gustavo** — RM: [Inserir RM]
-* **João Pedro** — RM: [Inserir RM]
-* **Lucas** — RM: [Inserir RM]
-* **[Nome do 4º Integrante]** — RM: [Inserir RM]
+| Nome | RM |
+|---|---|
+| João Pedro Maschion da Cruz Sá | RM570509 |
+| Gustavo Rezende Louro | RM570708 |
+| João Pedro Lagonegro Bosco e Silva | RM569444 |
+| Lucas Henrique Alves da Silva | RM572216 |
 
 ---
 *Global Solution 2026.2 · Engenharia de Software · FIAP Campus Lins / Paulista*

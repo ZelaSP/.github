@@ -11,7 +11,7 @@
 ## 📋 A Ficha da CitizenTech (Base Oficial)
 
 * **Nome da CitizenTech:** ZelaSP
-* **Cidade e Bairro:** São Paulo — SP (foco em bairros com fiação aérea densa e histórico de quedas de energia e temporais, como Pinheiros, Bela Vista, Mooca e periferias).
+* **Cidade e Bairro:** São Paulo — SP (foco em bairros com fiação aérea densa e histórico de quedas de energia e temporais, como Jabaquara, Vila Mariana, Saúde, Bela Vista, Mooca, Vila Mascote e etc).
 * **Cidadão Beneficiado:** Moradores, pedestres, comerciantes e pessoas com deficiência ou mobilidade reduzida que enfrentam riscos urbanos diários (cabos rompidos nas calçadas, entulhos obstruindo passagens, buracos em vias e carros abandonados).
 * **Problema em uma Frase:** O canal oficial atual (SP 156) é burocrático, demorado e opaco, desestimulando o cidadão a relatar incidentes urbanos graves e impedindo a vizinhança de acompanhar e apoiar chamados do mesmo quarteirão.
 * **Como Funciona:** O cidadão registra uma ocorrência em menos de 15 segundos enviando foto e localização automática; a plataforma exibe relatos abertos no mesmo raio (permitindo apoiar chamados existentes em vez de duplicá-los); e disponibiliza uma linha do tempo transparente com fotos antes/depois da execução do serviço.
@@ -64,4 +64,4 @@
 | Lucas Henrique Alves da Silva | RM572216 |
 
 ---
-*Global Solution 2026.2 · Engenharia de Software · FIAP Campus Lins / Paulista*
+*Global Solution 2026.2 · Engenharia de Software · FIAP Campus Paulista*

@@ -76,7 +76,7 @@ EVOLUÇÃO FUTURA (ROADMAP)
 
 | Repositório | Disciplina / Papel | Descrição |
 |---|---|---|
-| [`zelasp-web`](https://github.com/ZelaSP/zelasp-web) | Front-end Design & Web Development | Aplicação React + Vite + Tailwind com MockAPI, ViaCEP opcional, cache local de consulta e seleção demonstrativa de foto. *(Repositório privado para avaliação acadêmica).* |
+| [`zelasp-web`](https://github.com/ZelaSP/zelasp-web) | Front-end Design & Web Development | Aplicação React + Vite + Tailwind com MockAPI, ViaCEP opcional, cache local de consulta e seleção demonstrativa de foto. *(Repositório público para avaliação acadêmica, conforme liberação dos professores).* |
 | [`zelasp-python`](https://github.com/ZelaSP/zelasp-python) | Computational Thinking with Python | CLI acadêmica em Python com persistência JSON seguindo a regra única de prioridade. |
 | [`zelasp-math`](https://github.com/ZelaSP/zelasp-math) | Differentiated Problem Solving | Simulação acadêmica 24h com taxa não negativa `max(0, q(t))`, derivadas e integrais de volume excedente. |
 | [`zelasp-tx-design`](https://github.com/ZelaSP/zelasp-tx-design) | Software & Total Experience Design | Escopo, RF/RNF/RN, UML de Casos de Uso, wireframes de média fidelidade, heurísticas, TX e roadmap. |

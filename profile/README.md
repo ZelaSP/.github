@@ -11,10 +11,14 @@
 
 ## 📋 A Ficha da CitizenTech (Visão Unificada)
 
-* **Nome da CitizenTech:** ZelaSP
+* **Nome da CitizenTech:** ZelaSP (protótipo acadêmico voltado a facilitar o registro e organizar informações para a triagem; o benefício para o cidadão e para a operação pública é uma hipótese a validar, sem demonstração de redução real do prazo de atendimento da Prefeitura).
 * **Cidade e Bairros:** São Paulo — SP, com foco territorial prioritário em **Jabaquara, Vila Mariana, Saúde, Bela Vista, Mooca e Vila Mascote**.
 * **Cidadão Beneficiado:** Moradores, pedestres, idosos, pessoas com deficiência (PcD) ou mobilidade reduzida e comerciantes que enfrentam riscos urbanos diários (fios soltos, bueiros sem tampa, buracos, entulho e carros abandonados), além das equipes das Subprefeituras.
-* **Problema:** O canal tradicional de zeladoria envolve etapas longas no registro, gera relatos repetidos no mesmo ponto em dias de temporal e oferece pouca clareza sobre a fila de prioridade.
+* **Contexto, Diferencial Proposto e Limites de Evidência:**
+  * O **SP156 já fornece protocolo e formas de acompanhamento** ([perguntas frequentes oficiais do SP156](https://prefeitura.sp.gov.br/web/inovacao/w/acesso_a_informacao/350229)); assim, acompanhamento isoladamente não sustenta o diferencial do ZelaSP. O diferencial proposto passa a ser a **combinação de registro simples, apoio comunitário e organização das informações por risco** (cuja utilidade para o atendimento público precisa ser avaliada).
+  * Não há evidência suficiente no projeto para apontar a maior dificuldade atual da Prefeitura ou de uma subprefeitura (integração dos sistemas, qualidade das informações, encaminhamento, equipes e recursos são aspectos a investigar, não diagnóstico comprovado pelo grupo). Facilitar o registro pode ajudar o cidadão a expressar uma demanda, mas garantir análise, execução e retorno depende também do processo público e de integração operacional, que o ZelaSP ainda não possui.
+  * Contexto motivador (dois relatos informais, sem medição realizada pelo grupo):
+    > Em duas conversas informais, pessoas relataram tempos aproximados de 30–40 minutos para registrar um pedido de remoção de árvore e de cerca de 10 minutos para solicitar uma lixeira para poste. Os relatos motivam investigar a dificuldade do registro por tipo de serviço. O grupo ainda não realizou uma comparação cronometrada entre o ZelaSP e o canal oficial.
 * **Como Funciona na Versão Atual:** O cidadão registra ocorrências via endereço (ViaCEP ou digitação, com captura opcional de GPS do navegador), conta com seleção demonstrativa de foto (sem envio, armazenamento ou análise da imagem) e pode apoiar manualmente chamados existentes no painel para incentivar a redução de relatos repetidos.
 * **O que Cada Parte Faz:**
   * **Interface & Interação (Front-end Design & Web Development):** WebApp em React + Vite + Tailwind CSS conectado à MockAPI (CRUD completo) e ViaCEP, com cache local apenas para consulta offline, Custom Hooks e protótipo 3D WebGL na tela inicial.
